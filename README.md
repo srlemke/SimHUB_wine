@@ -1,3 +1,7 @@
 # SimHUB on Linux V2
+
+ Part1:
  SimHUB on Linux V2 - Uses Proton Wine for better compatibility.
- This works togheter with Shared Memory Bridge so you only need one SimHUB for all games.
+ SimHUB runs properly from user home .wine PREFIX.
+
+ Part2: NOT Implemented yet, seems to be more difficult using memory bridging.
